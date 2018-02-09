@@ -1,0 +1,2669 @@
+
+
+.bp2-desktop {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100%;
+  min-height          : 2427px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-desktop .bp2-sectionherobackground2x {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 1440px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp2-desktop .bp2-sectionherobackground2x-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : 500px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-desktop .bp2-insurance-made-speci {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 26.0px;
+}
+.bp2-desktop .bp2-insurance-made-speci-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 460px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-desktop .bp2-data-driven-coverage {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 49.0px;
+}
+.bp2-desktop .bp2-data-driven-coverage-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 46px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-desktop .bp2-spark-insurance {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 27.0px;
+}
+.bp2-desktop .bp2-group5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 486px;
+  height              : 104px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-group5 .bp2-rectangle2 {
+  background          : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-group5 .bp2-data-taken-directly {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 65.38%;
+  height              : 25.00%;
+  width               : 64.94%;
+  position            : absolute;
+  margin              : 0;
+  left                : 17.48%;
+  font-family         : "AvenirNext-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.bp2-desktop .bp2-group5 .bp2-the-right-coverage-a {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 24.04%;
+  height              : 25.96%;
+  width               : 40.43%;
+  position            : absolute;
+  margin              : 0;
+  left                : 29.79%;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.bp2-desktop .bp2-group8 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 1516px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp2-desktop .bp2-group8-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1652px;
+  align-items         : center;
+  height              : 859px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-desktop .bp2-group8 .bp2-supportmodelxhero {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 859px;
+  width               : 1516px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-group8 .bp2-group7 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 666px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp2-desktop .bp2-group8 .bp2-group7-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 75px;
+  align-items         : center;
+  height              : 161px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-desktop .bp2-group8 .bp2-group7 .bp2-what-about-insure-my {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 665px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 41.0px;
+}
+.bp2-desktop .bp2-group8 .bp2-group7 .bp2-as-a-model-s-owner {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : 665px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.bp2-desktop .bp2-group2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1579px;
+  height              : 147px;
+  width               : calc(100.00% + 89px);
+  position            : absolute;
+  margin              : 0;
+  left                : -44px;
+}
+.bp2-desktop .bp2-group2 .bp2-rectangle3 {
+  background          : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-group {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 284px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp2-desktop .bp2-group-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1617px;
+  align-items         : center;
+  height              : 72px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-desktop .bp2-group .bp2-rectangle4 {
+  background          : rgba(219, 5, 25, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 284px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 6px;
+}
+.bp2-desktop .bp2-group .bp2-sign-me-up {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.bp2-desktop .bp2-group3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 699px;
+  height              : 412px;
+  width               : 1198px;
+  position            : absolute;
+  margin              : 0;
+  left                : -223px;
+}
+.bp2-desktop .bp2-group3 .bp2-i-phone-xgestures571x321jpglarge {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 412px;
+  width               : 731px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-group3 .bp2-we-suggest-coverage {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 33px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 799px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp2-desktop .bp2-group3 .bp2-real-time-recommenda {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 799px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp2-desktop .bp2-group3 .bp2-steady-rates {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 146px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 799px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp2-desktop .bp2-group3 .bp2-ready-for-car-sharin {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 299px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 799px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp2-desktop .bp2-group3 .bp2-accident-forgiveness {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 179px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 799px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp2-desktop .bp2-group3 .bp2-know-exactly-where-a {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 332px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 799px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp2-desktop .bp2-group3 .bp2-i-mg1142 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 34px;
+  height              : 329px;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 284px;
+}
+.bp2-desktop .bp2-coverage-tailored-fo {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  margin-right        : -0px;
+  height              : auto;
+  pointer-events      : auto;
+  margin-left         : 0px;
+  position            : relative;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 41.0px;
+}
+.bp2-desktop .bp2-coverage-tailored-fo-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 620px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-desktop .bp2-group4 {
+  background          : rgba(255, 255, 255, 0.0);
+  right               : -268px;
+  top                 : 1236px;
+  height              : 383px;
+  width               : 1199px;
+  position            : absolute;
+  margin              : 0;
+}
+.bp2-desktop .bp2-group4 .bp2-teslaservicee1455120603609 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 343px;
+  width               : 718px;
+  position            : absolute;
+  margin              : 0;
+  left                : 481px;
+}
+.bp2-desktop .bp2-group4 .bp2-transparent-pricing {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp2-desktop .bp2-group4 .bp2-save-with-autopilot {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 118px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp2-desktop .bp2-group4 .bp2-save-when-youre-awa {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 250px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp2-desktop .bp2-group4 .bp2-know-exactly-how-you {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 33px;
+  height              : auto;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp2-desktop .bp2-group4 .bp2-each-month-we-look-a {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp2-desktop .bp2-group4 .bp2-drive-less-and-save {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 283px;
+  height              : auto;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp2-desktop .bp2-lets-save-some-mone {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  margin-right        : -0px;
+  height              : auto;
+  pointer-events      : auto;
+  margin-left         : 0px;
+  position            : relative;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 41.0px;
+}
+.bp2-desktop .bp2-lets-save-some-mone-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1150px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp4-mobile-portrait {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100%;
+  min-height          : 3197px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp4-mobile-portrait .bp4-sectionherobackground2x {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : relative;
+  pointer-events      : auto;
+  height              : 100%;
+}
+.bp4-mobile-portrait .bp4-sectionherobackground2x-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : 245px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-rectangle2 {
+  background          : rgba(0, 0, 0, 1.0);
+  top                 : 239px;
+  height              : 483px;
+  width               : calc(100.00% + 178px);
+  position            : absolute;
+  margin              : 0;
+  left                : -82px;
+}
+.bp4-mobile-portrait .bp4-data-taken-directly {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 320px;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  font-family         : "AvenirNext-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.bp4-mobile-portrait .bp4-data-taken-directly-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 637px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-the-right-coverage-a {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 320px;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.bp4-mobile-portrait .bp4-the-right-coverage-a-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 571px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-insurance-made-speci {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 320px;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.bp4-mobile-portrait .bp4-insurance-made-speci-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 412px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-group8 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 945px;
+  margin-right        : -2px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : 2px;
+  position            : relative;
+}
+.bp4-mobile-portrait .bp4-group8-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2507px;
+  align-items         : center;
+  height              : 696px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-group8 .bp4-supportmodelxhero {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 160px;
+  height              : 536px;
+  width               : 945px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-mobile-portrait .bp4-group8 .bp4-group7 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 304px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 312px;
+}
+.bp4-mobile-portrait .bp4-group8 .bp4-group7 .bp4-what-about-insure-my {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 41.0px;
+}
+.bp4-mobile-portrait .bp4-group8 .bp4-group7 .bp4-as-a-model-s-owner {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 104px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.bp4-mobile-portrait .bp4-group {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 513px;
+  margin-right        : 0px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : -0px;
+  position            : relative;
+}
+.bp4-mobile-portrait .bp4-group-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2354px;
+  align-items         : center;
+  height              : 147px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-group .bp4-rectangle3 {
+  background          : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 147px;
+  width               : 513px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-mobile-portrait .bp4-group2 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 284px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp4-mobile-portrait .bp4-group2-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2392px;
+  align-items         : center;
+  height              : 72px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-group2 .bp4-rectangle4 {
+  background          : rgba(219, 5, 25, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 284px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 6px;
+}
+.bp4-mobile-portrait .bp4-group2 .bp4-sign-me-up {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.bp4-mobile-portrait .bp4-group10 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 473px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp4-mobile-portrait .bp4-group10-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 805px;
+  align-items         : center;
+  height              : 267px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-group10 .bp4-i-phone-xgestures571x321jpglarge {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 267px;
+  width               : 473px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-mobile-portrait .bp4-group10 .bp4-i-mg1142 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 21px;
+  height              : 214px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 183px;
+}
+.bp4-mobile-portrait .bp4-group9 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 320px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp4-mobile-portrait .bp4-group9-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1072px;
+  align-items         : center;
+  height              : 502px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-group9 .bp4-we-suggest-coverage {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp4-mobile-portrait .bp4-group9 .bp4-real-time-recommenda {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp4-mobile-portrait .bp4-group9 .bp4-steady-rates {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 196px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp4-mobile-portrait .bp4-group9 .bp4-ready-for-car-sharin {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 349px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp4-mobile-portrait .bp4-group9 .bp4-accident-forgiveness {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 229px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp4-mobile-portrait .bp4-group9 .bp4-know-exactly-where-a {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 382px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp4-mobile-portrait .bp4-coverage-tailored-fo {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 320px;
+  margin-right        : -0px;
+  height              : auto;
+  pointer-events      : auto;
+  margin-left         : 0px;
+  position            : relative;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 41.0px;
+}
+.bp4-mobile-portrait .bp4-coverage-tailored-fo-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 723px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-teslaservicee1455120603609 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 513px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp4-mobile-portrait .bp4-teslaservicee1455120603609-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1676px;
+  align-items         : center;
+  height              : 245px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-group11 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 320px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp4-mobile-portrait .bp4-group11-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1921px;
+  align-items         : center;
+  height              : 463px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-group11 .bp4-transparent-pricing {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp4-mobile-portrait .bp4-group11 .bp4-save-with-autopilot {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 148px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp4-mobile-portrait .bp4-group11 .bp4-save-when-youre-awa {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 330px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp4-mobile-portrait .bp4-group11 .bp4-know-exactly-how-you {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 33px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp4-mobile-portrait .bp4-group11 .bp4-each-month-we-look-a {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 181px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp4-mobile-portrait .bp4-group11 .bp4-drive-less-and-save {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 363px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp4-mobile-portrait .bp4-lets-save-some-mone {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 320px;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 41.0px;
+}
+.bp4-mobile-portrait .bp4-lets-save-some-mone-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1594px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-data-driven-coverage {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 320px;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 49.0px;
+}
+.bp4-mobile-portrait .bp4-data-driven-coverage-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 42px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile-portrait .bp4-spark-insurance {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 27.0px;
+}
+.bp4-mobile-portrait .bp4-spark-insurance-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 10px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp3-tablet-portrait {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100%;
+  min-height          : 3197px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-tablet-portrait .bp3-sectionherobackground2x {
+  background          : rgba(255, 255, 255, 0.0);
+  margin-left         : 46px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-right        : -46px;
+  position            : relative;
+}
+.bp3-tablet-portrait .bp3-sectionherobackground2x-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : 500px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-tablet-portrait .bp3-insurance-made-speci {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 26.0px;
+}
+.bp3-tablet-portrait .bp3-insurance-made-speci-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 460px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-tablet-portrait .bp3-data-driven-coverage {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  margin-right        : -0px;
+  height              : auto;
+  pointer-events      : auto;
+  margin-left         : 0px;
+  position            : relative;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 49.0px;
+}
+.bp3-tablet-portrait .bp3-data-driven-coverage-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 46px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-tablet-portrait .bp3-spark-insurance {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 27.0px;
+}
+.bp3-tablet-portrait .bp3-group5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 486px;
+  height              : 104px;
+  width               : calc(100.00% + 64px);
+  position            : absolute;
+  margin              : 0;
+  left                : -32px;
+}
+.bp3-tablet-portrait .bp3-group5 .bp3-rectangle2 {
+  background          : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet-portrait .bp3-group5 .bp3-data-taken-directly {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 65.38%;
+  height              : 25.00%;
+  width               : 79.93%;
+  position            : absolute;
+  margin              : 0;
+  left                : 9.98%;
+  font-family         : "AvenirNext-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.bp3-tablet-portrait .bp3-group5 .bp3-the-right-coverage-a {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 24.04%;
+  height              : 25.96%;
+  width               : 49.76%;
+  position            : absolute;
+  margin              : 0;
+  left                : 25.12%;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.bp3-tablet-portrait .bp3-group8 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 1066px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp3-tablet-portrait .bp3-group8-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2596px;
+  align-items         : center;
+  height              : 604px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-tablet-portrait .bp3-group8 .bp3-supportmodelxhero {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 604px;
+  width               : 1066px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet-portrait .bp3-group8 .bp3-group7 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 666px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp3-tablet-portrait .bp3-group8 .bp3-group7-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : 161px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-tablet-portrait .bp3-group8 .bp3-group7 .bp3-what-about-insure-my {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 665px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 41.0px;
+}
+.bp3-tablet-portrait .bp3-group8 .bp3-group7 .bp3-as-a-model-s-owner {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : 665px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.bp3-tablet-portrait .bp3-group2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2449px;
+  height              : 147px;
+  width               : calc(100.00% + 303px);
+  position            : absolute;
+  margin              : 0;
+  left                : -152px;
+}
+.bp3-tablet-portrait .bp3-group2 .bp3-rectangle3 {
+  background          : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet-portrait .bp3-group {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 284px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp3-tablet-portrait .bp3-group-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2487px;
+  align-items         : center;
+  height              : 72px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-tablet-portrait .bp3-group .bp3-rectangle4 {
+  background          : rgba(219, 5, 25, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 284px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 6px;
+}
+.bp3-tablet-portrait .bp3-group .bp3-sign-me-up {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.bp3-tablet-portrait .bp3-group3 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 842px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp3-tablet-portrait .bp3-group3-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 698px;
+  align-items         : center;
+  height              : 886px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-tablet-portrait .bp3-group3 .bp3-group10 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 474px;
+  width               : 842px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet-portrait .bp3-group3 .bp3-group10 .bp3-i-phone-xgestures571x321jpglarge {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 474px;
+  width               : 842px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet-portrait .bp3-group3 .bp3-group10 .bp3-i-mg1142 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 39px;
+  height              : 378px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 327px;
+}
+.bp3-tablet-portrait .bp3-group3 .bp3-group9 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 474px;
+  height              : 412px;
+  width               : 399px;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+}
+.bp3-tablet-portrait .bp3-group3 .bp3-group9 .bp3-we-suggest-coverage {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 33px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp3-tablet-portrait .bp3-group3 .bp3-group9 .bp3-real-time-recommenda {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp3-tablet-portrait .bp3-group3 .bp3-group9 .bp3-steady-rates {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 146px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp3-tablet-portrait .bp3-group3 .bp3-group9 .bp3-ready-for-car-sharin {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 299px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp3-tablet-portrait .bp3-group3 .bp3-group9 .bp3-accident-forgiveness {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 179px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp3-tablet-portrait .bp3-group3 .bp3-group9 .bp3-know-exactly-where-a {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 332px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp3-tablet-portrait .bp3-coverage-tailored-fo {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  margin-right        : -0px;
+  height              : auto;
+  pointer-events      : auto;
+  margin-left         : 0px;
+  position            : relative;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 41.0px;
+}
+.bp3-tablet-portrait .bp3-coverage-tailored-fo-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 622px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-tablet-portrait .bp3-group4 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 776px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp3-tablet-portrait .bp3-group4-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1726px;
+  align-items         : center;
+  height              : 753px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-tablet-portrait .bp3-group4 .bp3-teslaservicee1455120603609 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 370px;
+  width               : 776px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet-portrait .bp3-group4 .bp3-group12 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 370px;
+  height              : 383px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+}
+.bp3-tablet-portrait .bp3-group4 .bp3-group12 .bp3-transparent-pricing {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp3-tablet-portrait .bp3-group4 .bp3-group12 .bp3-save-with-autopilot {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 118px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp3-tablet-portrait .bp3-group4 .bp3-group12 .bp3-save-when-youre-awa {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 250px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp3-tablet-portrait .bp3-group4 .bp3-group12 .bp3-know-exactly-how-you {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 33px;
+  height              : auto;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp3-tablet-portrait .bp3-group4 .bp3-group12 .bp3-each-month-we-look-a {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp3-tablet-portrait .bp3-group4 .bp3-group12 .bp3-drive-less-and-save {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 283px;
+  height              : auto;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp3-tablet-portrait .bp3-lets-save-some-mone {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  margin-right        : -0px;
+  height              : auto;
+  pointer-events      : auto;
+  margin-left         : 0px;
+  position            : relative;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 41.0px;
+}
+.bp3-tablet-portrait .bp3-lets-save-some-mone-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1624px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp1-desktop-hd {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100%;
+  min-height          : 2427px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-desktop-hd .bp1-sectionherobackground2x {
+  background          : rgba(255, 255, 255, 0.0);
+  margin-left         : -0px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-right        : 0px;
+  position            : relative;
+}
+.bp1-desktop-hd .bp1-sectionherobackground2x-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : -23px;
+  align-items         : center;
+  height              : 534px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-desktop-hd .bp1-insurance-made-speci {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 26.0px;
+}
+.bp1-desktop-hd .bp1-insurance-made-speci-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 460px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-desktop-hd .bp1-data-driven-coverage {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  margin-right        : -0px;
+  height              : auto;
+  pointer-events      : auto;
+  margin-left         : 0px;
+  position            : relative;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 49.0px;
+}
+.bp1-desktop-hd .bp1-data-driven-coverage-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 46px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-desktop-hd .bp1-spark-insurance {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : 27px;
+  width               : 189px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+}
+.bp1-desktop-hd .bp1-group5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 486px;
+  height              : 104px;
+  width               : calc(100.00% + 41px);
+  position            : absolute;
+  margin              : 0;
+  left                : -21px;
+}
+.bp1-desktop-hd .bp1-group5 .bp1-rectangle2 {
+  background          : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktop-hd .bp1-group5 .bp1-data-taken-directly {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 65.38%;
+  height              : 25.00%;
+  width               : 44.90%;
+  position            : absolute;
+  margin              : 0;
+  left                : 28.97%;
+  font-family         : "AvenirNext-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.bp1-desktop-hd .bp1-group5 .bp1-the-right-coverage-a {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 24.04%;
+  height              : 25.96%;
+  width               : 27.95%;
+  position            : absolute;
+  margin              : 0;
+  left                : 36.06%;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.bp1-desktop-hd .bp1-group8 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 1544px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp1-desktop-hd .bp1-group8-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1661px;
+  align-items         : center;
+  height              : 875px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-desktop-hd .bp1-group8 .bp1-supportmodelxhero {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 875px;
+  width               : 1544px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktop-hd .bp1-group8 .bp1-group7 {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 666px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp1-desktop-hd .bp1-group8 .bp1-group7-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 77px;
+  align-items         : center;
+  height              : 161px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-desktop-hd .bp1-group8 .bp1-group7 .bp1-what-about-insure-my {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 665px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 41.0px;
+}
+.bp1-desktop-hd .bp1-group8 .bp1-group7 .bp1-as-a-model-s-owner {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : 665px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.bp1-desktop-hd .bp1-group2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1579px;
+  height              : 147px;
+  width               : calc(100.00% + 89px);
+  position            : absolute;
+  margin              : 0;
+  left                : -44px;
+}
+.bp1-desktop-hd .bp1-group2 .bp1-rectangle3 {
+  background          : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktop-hd .bp1-group {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : 284px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+}
+.bp1-desktop-hd .bp1-group-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1617px;
+  align-items         : center;
+  height              : 72px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-desktop-hd .bp1-group .bp1-rectangle4 {
+  background          : rgba(219, 5, 25, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 284px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 6px;
+}
+.bp1-desktop-hd .bp1-group .bp1-sign-me-up {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.bp1-desktop-hd .bp1-group3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 699px;
+  height              : 412px;
+  width               : 1197px;
+  position            : absolute;
+  margin              : 0;
+  left                : -10px;
+}
+.bp1-desktop-hd .bp1-group3 .bp1-i-phone-xgestures571x321jpglarge {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 412px;
+  width               : 731px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktop-hd .bp1-group3 .bp1-we-suggest-coverage {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 33px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 798px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp1-desktop-hd .bp1-group3 .bp1-real-time-recommenda {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 798px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp1-desktop-hd .bp1-group3 .bp1-steady-rates {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 146px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 798px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp1-desktop-hd .bp1-group3 .bp1-ready-for-car-sharin {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 299px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 798px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp1-desktop-hd .bp1-group3 .bp1-accident-forgiveness {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 179px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 798px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp1-desktop-hd .bp1-group3 .bp1-know-exactly-where-a {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 332px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 798px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp1-desktop-hd .bp1-group3 .bp1-i-mg1142 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 34px;
+  height              : 329px;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 284px;
+}
+.bp1-desktop-hd .bp1-coverage-tailored-fo {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  margin-right        : -0px;
+  height              : auto;
+  pointer-events      : auto;
+  margin-left         : 0px;
+  position            : relative;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 41.0px;
+}
+.bp1-desktop-hd .bp1-coverage-tailored-fo-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 622px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-desktop-hd .bp1-group4 {
+  background          : rgba(255, 255, 255, 0.0);
+  right               : -65px;
+  top                 : 1236px;
+  height              : 383px;
+  width               : 1202px;
+  position            : absolute;
+  margin              : 0;
+}
+.bp1-desktop-hd .bp1-group4 .bp1-transparent-pricing {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp1-desktop-hd .bp1-group4 .bp1-save-with-autopilot {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 118px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp1-desktop-hd .bp1-group4 .bp1-save-when-youre-awa {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 250px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp1-desktop-hd .bp1-group4 .bp1-teslaservicee1455120603609 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 343px;
+  width               : 718px;
+  position            : absolute;
+  margin              : 0;
+  left                : 484px;
+}
+.bp1-desktop-hd .bp1-group4 .bp1-know-exactly-how-you {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 33px;
+  height              : auto;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp1-desktop-hd .bp1-group4 .bp1-each-month-we-look-a {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp1-desktop-hd .bp1-group4 .bp1-drive-less-and-save {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 283px;
+  height              : auto;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.bp1-desktop-hd .bp1-lets-save-some-mone {
+  background          : rgba(255, 255, 255, 0.0);
+  width               : auto;
+  margin-right        : -0px;
+  height              : auto;
+  pointer-events      : auto;
+  margin-left         : 0px;
+  position            : relative;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 41.0px;
+}
+.bp1-desktop-hd .bp1-lets-save-some-mone-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1151px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@media screen and (max-width: 767px) {
+  .bp4-mobile-portrait {
+    display             : block;
+  }
+  .bp3-tablet-portrait {
+    display             : none;
+  }
+  .bp2-desktop {
+    display             : none;
+  }
+  .bp1-desktop-hd {
+    display             : none;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .bp4-mobile-portrait {
+    display             : none;
+  }
+  .bp3-tablet-portrait {
+    display             : block;
+  }
+  .bp2-desktop {
+    display             : none;
+  }
+  .bp1-desktop-hd {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  .bp4-mobile-portrait {
+    display             : none;
+  }
+  .bp3-tablet-portrait {
+    display             : none;
+  }
+  .bp2-desktop {
+    display             : block;
+  }
+  .bp1-desktop-hd {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .bp4-mobile-portrait {
+    display             : none;
+  }
+  .bp3-tablet-portrait {
+    display             : none;
+  }
+  .bp2-desktop {
+    display             : none;
+  }
+  .bp1-desktop-hd {
+    display             : block;
+  }
+}
